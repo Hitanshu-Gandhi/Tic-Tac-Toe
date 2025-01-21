@@ -52,6 +52,8 @@ Similarly for server:
 ```
 
 Create the .env file in server and
+
+```bash
 PORT=<Port_number>
 TOKEN_SECRET=<Jwt_Token>
 MONGO_URI=<your-url>
