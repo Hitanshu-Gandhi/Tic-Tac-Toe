@@ -1,5 +1,5 @@
 
-# Client
+# Basic
 
 This is a MERN Application.
 
